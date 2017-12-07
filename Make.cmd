@@ -1,0 +1,1 @@
+oscript .\tools\oscript\InputLib.os .\ИнженерныйКалькулятор.epf .\lib\Autogen .\Build
